@@ -3,8 +3,8 @@
 This is a very simple cmake and ncurses test.
 
 # pre-requisites
-  -cmake
-  -ncurses
+  1. cmake
+  2. ncurses
 
 ```
 git clone https://github.com/TeddyRandby/curses-test.git ./curses-test
